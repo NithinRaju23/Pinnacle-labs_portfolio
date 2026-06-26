@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    text-align:center;
+}
+
+header{
+    background:#4CAF50;
+    color:white;
+    padding:20px;
+}
+
+.profile{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid white;
+}
+
+
+section{
+    background:white;
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+}
